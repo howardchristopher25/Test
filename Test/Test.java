@@ -12,7 +12,7 @@ public class Test
         array[1] = 2;
         array[2] = 3;
         array[3] = 4;
-        array[4] = 5;
+        array[4] = 6;
         
         
         for (int start : array)
