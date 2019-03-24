@@ -1,10 +1,8 @@
-Test
-
+'''
 Using this repository to test new skills in programming that I am learning about.
 
 **24 March 2019**
 Learning to use Git via the command line:
-'''
   1. config command: to add username and email
   2. init command: to create repository
   3. Drag and Drop file into repository
@@ -19,5 +17,5 @@ Learning to use Git via the command line:
      $ git remote -v
      //Verifies the new remote URL
   8. git push -u origin master
-'''
 Pushes the changes in your local repository up to the remote repository
+'''
